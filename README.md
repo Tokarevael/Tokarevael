@@ -90,14 +90,14 @@ I am a QA engineer and I work for the company NAUMEN, which creates voice robots
 
 ### Test Artifacts:
 
-[Testing theory] (https://github.com/Tokarevael/Testingtheory.git)
-[Test design] (https://github.com/Tokarevael/Testdesign.git)
-[Test documentation] (https://github.com/Tokarevael/Testing-documentation.git)
-[API Testing] (https://github.com/Tokarevael/API.git)
-[Work with Database] (https://github.com/Tokarevael/Database.git)
-[Web Testing] (https://github.com/Tokarevael/Web.git)
-[Mobile Testing] (https://github.com/Tokarevael/Mobile.git)
-[Git Bash] (https://github.com/Tokarevael/git_bash.git)
+* [Testing theory](https://github.com/Tokarevael/Testingtheory.git)  
+* [Test design](https://github.com/Tokarevael/Testdesign.git)  
+* [Test documentation](https://github.com/Tokarevael/Testing-documentation.git)  
+* [API Testing](https://github.com/Tokarevael/API.git)  
+* [Work with Database](https://github.com/Tokarevael/Database.git)  
+* [Web Testing](https://github.com/Tokarevael/Web.git)  
+* [Mobile Testing](https://github.com/Tokarevael/Mobile.git)  
+* [Git Bash](https://github.com/Tokarevael/git_bash.git)  
 
 
 ---
