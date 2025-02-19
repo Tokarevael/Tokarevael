@@ -7,7 +7,7 @@
 I am a QA engineer and I work for the company NAUMEN, which creates voice robots and chatbots using artificial intelligence technologies that provide a high level of dialogue skills for robots.
 
 - 📫 You can contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@tokarevael-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/tokarevael) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tokareva.euy@gmail.com)
-
+- 👨‍💻 Check out [my CV](https://github.com/Tokarevael/Tokarevael/blob/main/Tokareva%20E%20-%20QA.pdf)
 ---
 
 ### 🤝 Social media:
