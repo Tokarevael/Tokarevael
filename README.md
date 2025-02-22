@@ -84,7 +84,9 @@ I am a QA engineer and I work for the company NAUMEN, which creates voice robots
 | Courses                                                                          | Data              |
 | ---------------------------------------------------------------------------------| :---------------: |
 | https://www.software-testing.ru/edu/schedule/56/ School for beginner testers     | 12/2021 - 03/2022 |
+[certificate](https://github.com/Tokarevael/Tokarevael/blob/main/certificate.pdf)
 | https://www.rusau.net/qa-from-scratch Course "Functional Software Testing"       | 11/2024 - 02/2025 |
+[certificate](https://github.com/Tokarevael/Tokarevael/blob/main/Junior_8881450.pdf)
 
 ---
 
